@@ -48,6 +48,18 @@ Understanding content trends, viewer behavior, and genre popularity is key to ma
 
 Here are some key visuals from our analysis:
 
+![Netflix Data Analysis](Screenshot%202025-03-08%20192058.png)
+
+
+![Netflix Data Analysis](Screenshot%202025-03-08%20192133.png)
+
+
+![Netflix Data Analysis](Screenshot%202025-03-08%20192149.png)
+
+
+
+
+
 
 (More images from the project can be added similarly!)
 

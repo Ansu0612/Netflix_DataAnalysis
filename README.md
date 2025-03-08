@@ -59,9 +59,5 @@ Here are some key visuals from our analysis:
 
 
 
-
-
-(More images from the project can be added similarly!)
-
 ## 📢 Conclusion:-
 This analysis provides actionable insights into Netflix’s content strategy, helping to predict future content trends and enhance viewer engagement. Whether you’re a data enthusiast, a movie buff, or a business analyst, there’s something in here for everyone!
